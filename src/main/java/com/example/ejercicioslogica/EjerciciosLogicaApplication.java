@@ -1,9 +1,6 @@
 package com.example.ejercicioslogica;
 
-import com.example.ejercicioslogica.Ejercicios.MayorMenorIgual;
-import com.example.ejercicioslogica.Ejercicios.OperacionesMatematicasSimples;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.SpringApplication;
+import com.example.ejercicioslogica.Ejercicios.MensajeBienvenida;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.*;
@@ -19,8 +16,11 @@ public class EjerciciosLogicaApplication {
 //        operacionesMatematicasSimples.multiplicacion();
 //        operacionesMatematicasSimples.division();
 
-        MayorMenorIgual mayorMenorIgual = new MayorMenorIgual();
-        mayorMenorIgual.MayorMenorIgualFuncion();
+//        MayorMenorIgual mayorMenorIgual = new MayorMenorIgual();
+//        mayorMenorIgual.mayorMenorIgualFuncion();
+
+        MensajeBienvenida mensajeBienvenida = new MensajeBienvenida();
+        mensajeBienvenida.mensajeNombre();
 
 
     }
