@@ -1,6 +1,7 @@
 package com.example.ejercicioslogica;
 
 import com.example.ejercicioslogica.Ejercicios.AreaCirculo;
+import com.example.ejercicioslogica.Ejercicios.EjercicioAscii;
 import com.example.ejercicioslogica.Ejercicios.MensajeBienvenida;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -23,8 +24,11 @@ public class EjerciciosLogicaApplication {
 //        MensajeBienvenida mensajeBienvenida = new MensajeBienvenida();
 //        mensajeBienvenida.mensajeNombre();
 
-        AreaCirculo areaCirculo = new AreaCirculo();
-        areaCirculo.areaCirculo();
+//        AreaCirculo areaCirculo = new AreaCirculo();
+//        areaCirculo.areaCirculo();
+
+        EjercicioAscii ejercicioAscii = new EjercicioAscii();
+        ejercicioAscii.ascii();
 
 
     }
