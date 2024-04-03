@@ -1,9 +1,6 @@
 package com.example.ejercicioslogica;
 
-import com.example.ejercicioslogica.Ejercicios.AreaCirculo;
-import com.example.ejercicioslogica.Ejercicios.DivisiblePorDos;
-import com.example.ejercicioslogica.Ejercicios.EjercicioAscii;
-import com.example.ejercicioslogica.Ejercicios.MensajeBienvenida;
+import com.example.ejercicioslogica.Ejercicios.*;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.*;
@@ -33,6 +30,9 @@ public class EjerciciosLogicaApplication {
 
 //        DivisiblePorDos divisiblePorDos = new DivisiblePorDos();
 //        divisiblePorDos.divisiblePorDos();
+
+        EjercicioAsciiInverso ejercicioAsciiInverso = new EjercicioAsciiInverso();
+        ejercicioAsciiInverso.charAscii();
 
 
     }
