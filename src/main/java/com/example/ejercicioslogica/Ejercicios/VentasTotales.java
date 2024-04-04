@@ -9,9 +9,9 @@ public class VentasTotales {
         float total = 0;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el numero total de ventas: ");
-        float numeroVentas = scanner.nextFloat();
+        float numeroVentass = scanner.nextFloat();
 
-        for (int num= 1; num <= numeroVentas; num++){
+        for (int num= 1; num <= numeroVentass; num++){
             System.out.println("Ingrese el valor total de la venta: ");
             float venta = scanner.nextFloat();
             total = total + venta;
