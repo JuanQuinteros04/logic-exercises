@@ -40,8 +40,11 @@ public class EjerciciosLogicaApplication {
 //        MostrarUnoACienFor mostrarUnoACienFor = new MostrarUnoACienFor();
 //        mostrarUnoACienFor.funcionMostrarNumeros();
 
-        UnoAlCienDivisibleDosTres unoAlCienDivisibleDosTres = new UnoAlCienDivisibleDosTres();
-        unoAlCienDivisibleDosTres.divisible();
+//        UnoAlCienDivisibleDosTres unoAlCienDivisibleDosTres = new UnoAlCienDivisibleDosTres();
+//        unoAlCienDivisibleDosTres.divisible();
+
+//        VentasTotales ventasTotales = new VentasTotales();
+//        ventasTotales.funcionVentas();
 
 
 
