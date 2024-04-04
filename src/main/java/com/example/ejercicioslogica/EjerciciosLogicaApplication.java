@@ -31,8 +31,13 @@ public class EjerciciosLogicaApplication {
 //        EjercicioAsciiInverso ejercicioAsciiInverso = new EjercicioAsciiInverso();
 //        ejercicioAsciiInverso.charAscii();
 
-        EjercicioIva ejercicioIva = new EjercicioIva();
-        ejercicioIva.calcularIVA();
+//        EjercicioIva ejercicioIva = new EjercicioIva();
+//        ejercicioIva.calcularIVA();
+
+//        MostrarUnoACien mostrarUnoACien = new MostrarUnoACien();
+//        mostrarUnoACien.mostrarNumeros();
+
+
 
 
     }
