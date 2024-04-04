@@ -3,9 +3,6 @@ package com.example.ejercicioslogica;
 import com.example.ejercicioslogica.Ejercicios.*;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.util.*;
-
-
 @SpringBootApplication
 public class EjerciciosLogicaApplication {
 
@@ -31,8 +28,11 @@ public class EjerciciosLogicaApplication {
 //        DivisiblePorDos divisiblePorDos = new DivisiblePorDos();
 //        divisiblePorDos.divisiblePorDos();
 
-        EjercicioAsciiInverso ejercicioAsciiInverso = new EjercicioAsciiInverso();
-        ejercicioAsciiInverso.charAscii();
+//        EjercicioAsciiInverso ejercicioAsciiInverso = new EjercicioAsciiInverso();
+//        ejercicioAsciiInverso.charAscii();
+
+        EjercicioIva ejercicioIva = new EjercicioIva();
+        ejercicioIva.calcularIVA();
 
 
     }
