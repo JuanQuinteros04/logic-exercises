@@ -37,6 +37,9 @@ public class EjerciciosLogicaApplication {
 //        MostrarUnoACien mostrarUnoACien = new MostrarUnoACien();
 //        mostrarUnoACien.mostrarNumeros();
 
+//        MostrarUnoACienFor mostrarUnoACienFor = new MostrarUnoACienFor();
+//        mostrarUnoACienFor.funcionMostrarNumeros();
+
 
 
 
