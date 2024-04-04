@@ -1,4 +1,4 @@
-package com.example.ejercicioslogica;
+package com.example.ejercicioslogica.Ejercicios;
 
 public class UnoAlCienDivisibleDosTres {
 
