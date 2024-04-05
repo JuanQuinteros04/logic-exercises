@@ -52,8 +52,11 @@ public class EjerciciosLogicaApplication {
 //        DoWhileMayorIgualCero doWhileMayorIgualCero = new DoWhileMayorIgualCero();
 //        doWhileMayorIgualCero.definir();
 
-        Password password = new Password();
-        password.funcion();
+//        Password password = new Password();
+//        password.funcion();
+
+        SwitchDiasSemana switchDiasSemana = new SwitchDiasSemana();
+        switchDiasSemana.funcion();
 
 
 
