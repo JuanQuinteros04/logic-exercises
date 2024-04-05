@@ -49,9 +49,11 @@ public class EjerciciosLogicaApplication {
 //        OperacionSegundoGrado operacionSegundoGrado = new OperacionSegundoGrado();
 //        operacionSegundoGrado.operacion();
 
-        DoWhileMayorIgualCero doWhileMayorIgualCero = new DoWhileMayorIgualCero();
-        doWhileMayorIgualCero.definir();
+//        DoWhileMayorIgualCero doWhileMayorIgualCero = new DoWhileMayorIgualCero();
+//        doWhileMayorIgualCero.definir();
 
+        Password password = new Password();
+        password.funcion();
 
 
 
