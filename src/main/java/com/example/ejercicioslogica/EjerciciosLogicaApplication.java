@@ -46,6 +46,9 @@ public class EjerciciosLogicaApplication {
 //        VentasTotales ventasTotales = new VentasTotales();
 //        ventasTotales.funcionVentas();
 
+        OperacionSegundoGrado operacionSegundoGrado = new OperacionSegundoGrado();
+        operacionSegundoGrado.operacion();
+
 
 
 
