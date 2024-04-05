@@ -55,9 +55,11 @@ public class EjerciciosLogicaApplication {
 //        Password password = new Password();
 //        password.funcion();
 
-        SwitchDiasSemana switchDiasSemana = new SwitchDiasSemana();
-        switchDiasSemana.funcion();
+//        SwitchDiasSemana switchDiasSemana = new SwitchDiasSemana();
+//        switchDiasSemana.funcion();
 
+        EjercicioRandom ejercicioRandom = new EjercicioRandom();
+        ejercicioRandom.funcion();
 
 
     }
