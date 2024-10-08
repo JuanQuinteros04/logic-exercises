@@ -1,9 +1,7 @@
-package com.example.ejercicioslogica.Ejercicios;
+package com.example.ejercicioslogica.Ejercicios15;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import static java.lang.Math.PI;
 
 public class AreaCirculo {
 
