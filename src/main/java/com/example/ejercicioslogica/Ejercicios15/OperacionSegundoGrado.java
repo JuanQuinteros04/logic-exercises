@@ -1,4 +1,4 @@
-package com.example.ejercicioslogica.Ejercicios;
+package com.example.ejercicioslogica.Ejercicios15;
 
 import java.util.Scanner;
 
