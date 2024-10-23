@@ -7,10 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EjerciciosLogicaApplication {
 
     public static void main(String[] args) {
-        Digits digits = new Digits();
-        digits.howManyDigits(1234567890);
 
-
+    Digits digits = new Digits();
+    digits.howManyDigitsLogic();
 
     }
 }
