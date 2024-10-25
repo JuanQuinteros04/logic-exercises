@@ -8,8 +8,7 @@ public class EjerciciosLogicaApplication {
 
     public static void main(String[] args) {
 
-    Digits digits = new Digits();
-    digits.howManyDigitsLogic();
+
 
     }
 }
