@@ -9,7 +9,7 @@ public class EjerciciosLogicaApplication {
 
     public static void main(String[] args) {
 
-       DeleteSpace deleteSpace = new DeleteSpace();
-       deleteSpace.delete();
+      InfinitePhrase infinitePhrase = new InfinitePhrase();
+      infinitePhrase.introducePhrase();
     }
 }
