@@ -9,7 +9,7 @@ public class EjerciciosLogicaApplication {
 
     public static void main(String[] args) {
 
-        InsertNumbers insertNumbers = new InsertNumbers();
-        insertNumbers.insertar();
+       Addition addition = new Addition();
+       addition.sumar();
     }
 }
