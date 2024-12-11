@@ -9,7 +9,7 @@ public class EjerciciosLogicaApplication {
 
     public static void main(String[] args) {
 
-       Addition addition = new Addition();
-       addition.sumar();
+       DeleteSpace deleteSpace = new DeleteSpace();
+       deleteSpace.delete();
     }
 }
